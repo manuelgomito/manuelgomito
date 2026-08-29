@@ -36,8 +36,6 @@ If a project includes scripts or playbooks, a generic quickstart:
 
 ## Contact
 - LinkedIn: https://www.linkedin.com/in/manuel-gomito
-- WhatsApp: +351 926 046 364
+- WhatsApp: 926 046 364
 
 ---
-
-If you want, I can also update the Portfolio README with a quickstart and badges upon request.
