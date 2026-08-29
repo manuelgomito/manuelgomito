@@ -36,187 +36,154 @@ My current focus includes:
 - Web infrastructure
 - CI/CD
 
----
+What I Build
 
-## Core Areas
+I build and operate digital infrastructure with a focus on Linux, automation, cloud and security.
 
-```text
-Linux & Systems
-├── Server Administration
-├── SSH & Hardening
-├── Nginx / Apache
-├── PHP / PHP-FPM
-├── MariaDB / PostgreSQL
-├── Systemd
-├── UFW / Fail2Ban
-└── Bash Automation
+My work is centered on turning servers and cloud resources into reliable, secure and maintainable environments.
 
-Cloud & Infrastructure
-├── AWS
-├── EC2
-├── EBS
-├── IAM
-├── EventBridge
-└── Terraform
+Infrastructure
 
-Containers & Automation
-├── Docker
-├── Docker Compose
-├── Ansible
-└── CI/CD
+Cloud & Hosting
 
-Operations
-├── Monitoring
-├── Backups
-├── Recovery
-├── Troubleshooting
-└── Security
+"AWS" · "Azure" · "DigitalOcean" · "Contabo"
 
-## Featured Projects
+AWS
 
-### Weekly Backup Infrastructure
+"EC2" · "EBS" · "IAM" · "EventBridge Scheduler"
 
-A practical backup infrastructure focused on automation, reliability and recovery.
+Infrastructure as Code
 
-**Technologies and concepts:**
-
-- AWS EC2
-- EBS
-- IAM
-- EventBridge Scheduler
-- SSH
-- Rsync
-- Automated backups
-- Monitoring
-- Recovery procedures
-- Troubleshooting
-
-→ [View DevOps Notes](https://github.com/manuelgomito/devops-notes)
-
-### DevOps Notes
-
-A continuously evolving knowledge base covering practical work with:
-
-- Linux
-- AWS
-- Terraform
-- Docker
-- Ansible
-- Networking
-- Security
-- Monitoring
-- Backup & Recovery
-- Troubleshooting
-- CI/CD
-
-→ [Explore the repository](https://github.com/manuelgomito/devops-notes)
-
-### Portfolio
-
-My professional and technical portfolio containing projects, experiments and practical infrastructure work.
-
-→ [View Portfolio](https://github.com/manuelgomito/Portfolio)
+"Terraform"
 
 ---
 
-## Engineering Approach
+Systems
 
-Infrastructure is more than a collection of tools.
+Linux & Server Administration
 
-My approach follows a simple operational cycle:
+"Linux" · "Ubuntu" · "SSH" · "systemd" · "Bash"
 
-```text
-Problem
-   ↓
-Observe
-   ↓
-Collect evidence
-   ↓
-Identify root cause
-   ↓
-Fix
-   ↓
-Test
-   ↓
-Automate
-   ↓
-Document
+Web Infrastructure
 
-                    ┌───────────────────┐
-                    │      PROJECT      │
-                    └─────────┬─────────┘
-                              │
-                              ▼
-                    ┌───────────────────┐
-                    │   INFRASTRUCTURE  │
-                    └─────────┬─────────┘
-                              │
-              ┌───────────────┼───────────────┐
-              ▼               ▼               ▼
-          SECURITY        AUTOMATION       RELIABILITY
-              │               │               │
-           Hardening       Terraform         Backup
-           SSH             Ansible           Recovery
-           Firewall        Bash              Monitoring
-           TLS             Docker            Testing
-              │               │               │
-              └───────────────┼───────────────┘
-                              ▼
-                    ┌───────────────────┐
-                    │    OPERATIONS     │
-                    └───────────────────┘
+"Nginx" · "Apache" · "PHP" · "PHP-FPM" · "WordPress"
 
+Databases
 
-Linux & Systems Administration   ████████████████████
-AWS & Cloud Infrastructure        ███████████████████░
-Terraform / IaC                  ██████████████████░░
-Docker & Containers               █████████████████░░░
-Ansible & Automation              ████████████████░░░░
-Monitoring & Observability        ███████████████░░░░░
-CI/CD                             ██████████████░░░░░░
-Infrastructure Security           ████████████████░░░░
-
-
-
-## Engineering Principles
-
-I approach infrastructure work with a few simple principles:
-
-- **Automate what is repetitive.**
-- **Document what is important.**
-- **Monitor what matters.**
-- **Back up what cannot be lost.**
-- **Test recovery, not just backup creation.**
-- **Secure infrastructure before exposing services.**
-- **Understand the system before automating it.**
+"MariaDB" · "PostgreSQL"
 
 ---
 
-## GitHub
+Automation
 
-I use Git to maintain the history of infrastructure projects, documentation, configurations, experiments and technical decisions.
+I use automation to make infrastructure repeatable, consistent and easier to operate.
 
-The repositories on this profile represent practical work and continuous learning across **Linux, DevOps, cloud infrastructure, automation and security**.
+"Docker" · "Docker Compose" · "Ansible" · "Bash" · "Terraform" · "CI/CD"
+
+Manual Work
+     │
+     ▼
+   Automate
+     │
+     ▼
+   Repeat
+     │
+     ▼
+   Improve
 
 ---
 
-## Let's Connect
+Security & Operations
 
-If you are interested in:
+Infrastructure does not end when a service is deployed.
 
-- Linux infrastructure
-- DevOps
-- Cloud engineering
-- Infrastructure automation
-- Server security
-- Hosting infrastructure
-- System administration
-- Practical infrastructure projects
+I work with the operational layer that keeps systems running:
 
-feel free to explore my repositories.
+"SSH Hardening" · "UFW" · "Fail2Ban" · "TLS" · "Monitoring" · "Logging"
 
-<div align="center">
+"Backup" · "Recovery" · "Troubleshooting" · "Performance"
 
-### `Linux → Automate → Secure → Monitor → Document`
+---
+
+How I Think About Infrastructure
+
+I see infrastructure as a continuous cycle rather than a collection of isolated technologies.
+
+                 ┌─────────────┐
+                 │    BUILD    │
+                 └──────┬──────┘
+                        │
+                        ▼
+                 ┌─────────────┐
+                 │   DEPLOY    │
+                 └──────┬──────┘
+                        │
+                        ▼
+              ┌───────────────────┐
+              │      OPERATE      │
+              └─────────┬─────────┘
+                        │
+          ┌─────────────┼─────────────┐
+          ▼             ▼             ▼
+       SECURE        MONITOR        BACKUP
+          │             │             │
+          └─────────────┼─────────────┘
+                        ▼
+                     RECOVER
+                        │
+                        ▼
+                    IMPROVE
+                        │
+                        └──────► BUILD
+
+The goal is simple:
+
+«Build infrastructure that works, understand how it works, and make it better every time.»
+
+---
+
+Selected Work
+
+AWS Weekly Backup Infrastructure
+
+A practical infrastructure project focused on automated backups, scheduled execution, monitoring and recovery.
+
+It brings together AWS, Linux, SSH, Rsync and operational automation into a complete backup workflow.
+
+→ "View the project documentation" (https://github.com/manuelgomito/devops-notes)
+
+DevOps Notes
+
+A living technical knowledge base built from practical work with servers, infrastructure and DevOps.
+
+It documents troubleshooting, configuration, security, automation, AWS, Terraform, Docker, backup and recovery.
+
+→ "Explore DevOps Notes" (https://github.com/manuelgomito/devops-notes)
+
+Portfolio
+
+A collection of technical projects, experiments and practical work across development, systems and infrastructure.
+
+→ "View Portfolio" (https://github.com/manuelgomito/Portfolio)
+
+---
+
+Currently Building
+
+Digital foundations for reliable systems.
+
+My current direction is bringing together:
+
+"Linux" → "Cloud" → "Automation" → "Security" → "Observability" → "CI/CD"
+
+The objective is not to collect tools.
+
+It is to understand how infrastructure works as a system and use the right tools to make it reliable.
+
+---
+
+<div align="center">"Build · Automate · Secure · Operate · Improve"
+
+Building Digital Foundations.
 
 </div>
