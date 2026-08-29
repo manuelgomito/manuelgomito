@@ -1,5 +1,3 @@
-# Contributing to Manuel Gomito projects
-
 Obrigado pelo interesse em contribuir! Para contribuir com este repositório (perfil) e com o repo Portfolio, por favor siga estas diretrizes rápidas:
 
 1. Fork o repositório e crie uma branch com nome descritivo: `fix/<breve-descrição>` ou `feat/<breve-descrição>`.
