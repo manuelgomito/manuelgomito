@@ -1,12 +1,12 @@
-# Código de Conduta
+# Code of Conduct
 
-A comunidade aqui é acolhedora e respeitosa. Ao interagir com este repositório, por favor:
+We aim to maintain a welcoming and respectful community. When interacting with this repository, please:
 
-- Seja respeitoso com as outras pessoas; evite linguagem ou comportamentos ofensivos.
-- Mantenha as discussões focadas no problema técnico, não em ataques pessoais.
-- Respeite a diversidade de origens, opiniões e níveis de experiência.
-- Siga as instruções do mantenedor ao submeter PRs ou issues.
+- Be respectful to others; avoid offensive language and behavior.
+- Focus discussions on technical topics, not personal attacks.
+- Respect diversity of backgrounds, opinions, and experience levels.
+- Follow maintainer instructions when submitting PRs or issues.
 
-Caso precise reportar uma violação, abra uma issue privada ou entre em contato via LinkedIn: https://www.linkedin.com/in/manuel-gomito
+If you need to report a violation, open a private issue or contact via LinkedIn: https://www.linkedin.com/in/manuel-gomito
 
-Este código de conduta aplica-se a todos os canais públicos de colaboração relacionados a este repositório (issues, PRs, discussions).
+This code of conduct applies to all public collaboration channels related to this repository (issues, PRs, discussions).

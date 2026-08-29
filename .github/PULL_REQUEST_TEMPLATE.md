@@ -1,22 +1,22 @@
 <!-- Pull Request Template -->
 
-## Tipo de mudança
+## Type of change
 - [ ] Bugfix
-- [ ] Nova funcionalidade
-- [ ] Documentação
+- [ ] New feature
+- [ ] Documentation
 - [ ] Refactor
 
-## Descrição
-Por favor descreva o que foi alterado e por quê.
+## Description
+Please describe what was changed and why.
 
-## Como testar
-Passos para reproduzir/validar as mudanças:
+## How to test
+Steps to reproduce/validate the changes:
 1. 
 2. 
 
 ## Checklist
-- [ ] Código funcional e testado localmente
-- [ ] Documentação atualizada (se aplicável)
-- [ ] Nenhum dado sensível incluído
+- [ ] Code works and has been tested locally
+- [ ] Documentation updated (if applicable)
+- [ ] No sensitive data included
 
-Link para issue relacionada (se houver):
+Link to related issue (if any):

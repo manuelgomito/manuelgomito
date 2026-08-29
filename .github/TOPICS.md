@@ -1,4 +1,4 @@
-Recomended topics to add to the repository (copy these in the repository Settings → Topics):
+Recommended topics to add to the repository (copy these in the repository Settings → Topics):
 
 - linux
 - infrastructure

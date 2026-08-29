@@ -1,25 +1,25 @@
 ---
 name: Bug report
-about: Use este template para reportar bugs
+about: Use this template to report bugs
 ---
 
-**Título**: 
+**Title**: 
 
-**Descrição**
-Descreva o bug de forma clara e concisa.
+**Description**
+Describe the bug clearly and concisely.
 
-**Como reproduzir**
-Passos para reproduzir o comportamento:
+**How to reproduce**
+Steps to reproduce the behavior:
 1. 
 2. 
 3. 
 
-**Comportamento esperado**
-Descreva o que você esperava que acontecesse.
+**Expected behavior**
+Describe what you expected to happen.
 
-**Ambiente (opcional)**
-- Sistema operacional: 
-- Versão: 
+**Environment (optional)**
+- OS: 
+- Version: 
 
-**Logs / Saída / Screenshots (se aplicável)**
+**Logs / Output / Screenshots (if applicable)**
 

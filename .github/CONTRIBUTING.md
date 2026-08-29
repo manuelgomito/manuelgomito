@@ -1,15 +1,17 @@
-Obrigado pelo interesse em contribuir! Para contribuir com este repositório (perfil) e com o repo Portfolio, por favor siga estas diretrizes rápidas:
+# CONTRIBUTING
 
-1. Fork o repositório e crie uma branch com nome descritivo: `fix/<breve-descrição>` ou `feat/<breve-descrição>`.
-2. Escreva commits pequenos e com mensagens claras.
-3. Execute testes/local lint quando aplicável.
-4. Abra um PR com descrição do problema, solução e como testar.
+Thanks for your interest in contributing! To contribute to this profile repository and the Portfolio repo, please follow these quick guidelines:
 
-### Boas-vindas
-- Procuro contribuidores para: revisão de scripts, documentação, adicionar automações e melhorias em playbooks.
+1. Fork the repository and create a descriptive branch: `fix/<short-description>` or `feat/<short-description>`.
+2. Keep commits small and use clear commit messages.
+3. Run local tests or linters when applicable.
+4. Open a PR with a description of the issue, your solution and how to test.
 
-### Estilo
-- Scripts em Bash: POSIX sempre que possível, com `set -euo pipefail` e checagens de erros.
-- Commits: siga formato curto, ex: `feat: add playbook for backup`.
+### Welcome
+- Areas where contributions are welcome: script reviews, documentation, automation additions and playbook improvements.
 
-Se você quiser ajuda para começar, veja as issues marcadas como `good first issue` no repo Portfolio.
+### Style
+- Bash scripts: prefer POSIX where possible, include `set -euo pipefail` and basic error checks.
+- Commits: short descriptive format, e.g. `feat: add backup playbook`.
+
+If you need help getting started, check for issues labeled `good first issue` in the Portfolio repo.

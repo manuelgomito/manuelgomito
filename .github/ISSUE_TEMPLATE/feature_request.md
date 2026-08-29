@@ -1,16 +1,16 @@
 ---
 name: Feature request
-about: Sugestões de melhoria ou novas funcionalidades
+about: Suggestions for improvements or new features
 ---
 
-**Resumo**
-Descreva brevemente a funcionalidade proposta.
+**Summary**
+Briefly describe the proposed feature.
 
-**Motivação**
-Por que essa funcionalidade é importante? Qual problema resolve?
+**Motivation**
+Why is this feature important? What problem does it solve?
 
-**Proposta**
-Detalhe a solução proposta, com exemplos ou pseudocódigo se necessário.
+**Proposal**
+Detail the proposed solution, including examples or pseudocode if helpful.
 
-**Notas adicionais (opcional)**
-Qualquer informação extra que ajude a avaliar/implementar a sugestão.
+**Additional notes (optional)**
+Any extra information to help evaluate/implement the suggestion.
