@@ -1,94 +1,88 @@
-Manuel Gomito
+# Manuel Gomito
 
-Linux Infrastructure Engineer | Systems Administration | Cloud & Security
+## Linux Infrastructure Engineer
 
-""Linux" (https://img.shields.io/badge/Linux-Administration-FCC624?style=flat&logo=linux&logoColor=black)" (https://www.linux.org/)
-""Docker" (https://img.shields.io/badge/Docker-Containers-2496ED?style=flat&logo=docker&logoColor=white)" (https://www.docker.com/)
-""Ansible" (https://img.shields.io/badge/Ansible-Automation-EE0000?style=flat&logo=ansible&logoColor=white)" (https://www.ansible.com/)
-""Terraform" (https://img.shields.io/badge/Terraform-IaC-844FBA?style=flat&logo=terraform&logoColor=white)" (https://www.terraform.io/)
-""AWS" (https://img.shields.io/badge/AWS-Cloud-232F3E?style=flat&logo=amazonaws&logoColor=white)" (https://aws.amazon.com/)
+Linux Infrastructure Engineer focused on Linux systems administration, server infrastructure, cloud environments, security, automation, monitoring, and reliability.
+
+I work with Linux servers, VPS environments, web hosting infrastructure, Docker, Nginx, PHP-FPM, MariaDB, DNS, SSL/TLS, server hardening, backups, troubleshooting, and infrastructure automation.
 
 ---
 
-About
+## Skills
 
-Linux Infrastructure Engineer and Systems Administrator focused on building, securing, monitoring, and maintaining reliable IT infrastructure.
+**Linux & Systems**
+- Linux
+- Ubuntu
+- Bash
+- SSH
+- System Administration
 
-My experience includes Linux servers, VPS and cloud environments, web hosting, Docker, Nginx, PHP-FPM, MariaDB, DNS, SSL/TLS, server security, monitoring, backups, troubleshooting, and infrastructure automation.
+**Infrastructure**
+- VPS
+- Nginx
+- PHP-FPM
+- MariaDB
+- DNS
+- SSL/TLS
 
-I focus on improving reliability, security, performance, and operational efficiency through practical systems administration and automation.
+**Security**
+- UFW
+- Fail2Ban
+- Server Hardening
+- Security Monitoring
+- Incident Response
+
+**Automation & DevOps**
+- Docker
+- Ansible
+- Terraform
+- Git
+- CI/CD
+
+**Cloud**
+- AWS
+- Cloud Infrastructure
+- Virtualization
+- Web Hosting
 
 ---
 
-Core Technologies
+## Infrastructure Projects
 
-Operating Systems
-
-Linux · Ubuntu
-
-Infrastructure
-
-VPS · Nginx · PHP-FPM · MariaDB · DNS · SSL/TLS
-
-Security & Operations
-
-SSH · UFW · Fail2Ban · Server Hardening · Monitoring · Troubleshooting · Backup & Recovery
-
-Automation & Infrastructure as Code
-
-Bash · Ansible · Terraform · Git · CI/CD
-
-Cloud & Containers
-
-AWS · Docker · Cloud Infrastructure · Virtualization
-
----
-
-Infrastructure Portfolio
-
-Hands-on projects focused on Linux infrastructure, automation, security, monitoring, troubleshooting, and reliability.
-
-Linux Server Monitoring
-
+### Linux Server Monitoring
 Monitoring and alerting for CPU, memory, storage, services, databases, SSL certificates, and backups.
 
-Linux Server Hardening
+### Linux Server Hardening
+Linux security configuration including SSH hardening, firewall rules, Fail2Ban, and system security.
 
-Security practices covering SSH, firewall configuration, Fail2Ban, service hardening, and system security.
-
-Linux Troubleshooting
-
+### Linux Troubleshooting
 Diagnostic tools for CPU, memory, storage, networking, services, and system logs.
 
-Linux Backup Automation
+### Linux Backup Automation
+Automated backup workflows focused on data protection and recovery.
 
-Automated backup workflows designed to improve data protection and recovery.
+### Nginx & PHP-FPM Optimization
+Web infrastructure configuration and performance optimization.
 
-Nginx & PHP-FPM Optimization
+### Docker Infrastructure
+Containerized services and infrastructure deployments using Docker.
 
-Web infrastructure configuration and performance optimization for Linux-based environments.
+### Ansible Linux Hardening
+Automated Linux configuration and security hardening using Ansible.
 
-Docker Infrastructure
+### Terraform Infrastructure
+Infrastructure as Code for repeatable infrastructure deployments.
 
-Containerized services and infrastructure deployment using Docker.
-
-Ansible Linux Hardening
-
-Linux configuration and security automation using Ansible.
-
-Terraform Infrastructure
-
-Infrastructure as Code for repeatable and manageable infrastructure deployments.
-
-"→ Explore the full Infrastructure Portfolio" (https://github.com/manuelgomito/Portfolio)
+**[View Infrastructure Portfolio](https://github.com/manuelgomito/Portfolio)**
 
 ---
 
-Professional Focus
+## Professional Focus
 
 - Linux Infrastructure Engineering
 - Linux Systems Administration
-- Cloud & VPS Infrastructure
+- Cloud Infrastructure
+- VPS Administration
 - Server Security & Hardening
 - Infrastructure Monitoring
 - Troubleshooting & Incident Response
@@ -99,16 +93,25 @@ Professional Focus
 
 ---
 
-Connect
+## Experience
 
-LinkedIn: "Manuel Gomito" (https://www.linkedin.com/in/manuel-gomito/)
+**Linux Infrastructure Engineer / Systems Administrator**
+**Gomito Digital**
 
-GitHub: "@manuelgomito" (https://github.com/manuelgomito)
-
-WhatsApp: "+244 926 046 364" (https://wa.me/244926046364)
+Linux infrastructure administration, VPS management, web hosting, server security, monitoring, backups, troubleshooting, automation, and infrastructure services.
 
 ---
 
-Open to Remote Opportunities
+## Connect
+
+[LinkedIn](https://www.linkedin.com/in/manuel-gomito/)
+
+[GitHub](https://github.com/manuelgomito)
+
+[WhatsApp](https://wa.me/244926046364)
+
+---
+
+## Open to Remote Opportunities
 
 Linux Infrastructure Engineer · Linux System Administrator · Infrastructure Engineer · Systems Administrator · Cloud Infrastructure Engineer · DevOps Engineer
